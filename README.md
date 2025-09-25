@@ -54,11 +54,11 @@
 ---
 
 ## 🏅 Achievements:
-- 🏆 **2x Hackathon Winner** (incl. Presidency Univ. National Hackathon Finalist)  
+- 🏆 **2x Hackathon Winner** (incl. 3x national level finalist and Qualified GOOGLE solution challenge 2024)  
 - 🎯 **ICPC 2024 Amritapuri Online Prelims Qualified**  
-- 💡 Internship Projects with **Microsoft, SAP, AICTE**  
+- 💡 Machine learning Projects with **Microsoft, SAP, AICTE (Edunet)**  
 - 🌍 Built & deployed **[LoklBiz](https://www.loklbiz.com/)** (live E-commerce startup project)  
-- 📌 Organized **AI/ML Events & Competitions** at college  
+- 📌 Organized **AI/ML Events & Competitions** at college  ( CODE CLUB TECHNICAL LEAD)
 - 📊 Built multiple **AI/ML, AR/VR, Blockchain & Startup Projects** across domains  
 
 ---
