@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ujesh Kumar Yadav 🚀  
 
 💡 **AI/ML Engineer | Innovator | Problem Solver | Competitive Programmer**  
-🏆 Hackathon Winner | ETH Zurich Intern Offer | ICPC ‘24 Prelims Qualified  
+🏆 Hackathon Winner | GOOGLE solution challenge 2024 finalist | ICPC ‘24 Prelims Qualified  
 
 ---
 
