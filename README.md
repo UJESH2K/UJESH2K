@@ -66,6 +66,7 @@
 
 ## 📈 GitHub Stats:
 <p align="center">
+  [![An image of @ujesh2k's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujesh2k)](https://holopin.io/@ujesh2k)
   
   <img src="https://github-readme-stats.vercel.app/api?username=UJESH2K&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UJESH2K&layout=compact&theme=radical" height="165"/>
