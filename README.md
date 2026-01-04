@@ -5,7 +5,7 @@
 
 ---
 <p align="center">
-  <img src="./nft.png" alt="NFT 1" width="180"/>
+  <img src="./nft.png" alt="NFT 1" />
 
 </p>
 ---
