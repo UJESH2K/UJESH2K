@@ -4,6 +4,8 @@
 🏆 Hackathon Winner | GOOGLE solution challenge 2024 finalist | ICPC ‘24 Prelims Qualified  
 
 ---
+![GitPay Badges](https://img.shields.io/badge/GitPay-3%20Contributions-brightgreen?style=flat-square&logo=solana)
+
 <p align="center">
   <img src="./nft.png" alt="NFT 1" />
 
