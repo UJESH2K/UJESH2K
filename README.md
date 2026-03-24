@@ -55,7 +55,7 @@
 ---
 
 ## 🏅 Achievements:
-- 🏆 **2x Hackathon Winner** (incl. 3x national level finalist and Qualified GOOGLE solution challenge 2024)  
+- 🏆 **5x Hackathon Winner** (incl. 3x national level finalist and Qualified GOOGLE solution challenge 2024)  
 - 🎯 **ICPC 2024 Amritapuri Online Prelims Qualified**  
 - 💡 Machine learning Projects with **Microsoft, SAP, AICTE (Edunet)**  
 - 🌍 Built & deployed **[LoklBiz](https://www.loklbiz.com/)** (live E-commerce startup project)  
