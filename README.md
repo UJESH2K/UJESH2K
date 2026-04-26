@@ -56,8 +56,7 @@
 ## 🏅 Achievements:
 - 🏆 **5x Hackathon Winner** (incl. 3x national level finalist and Qualified GOOGLE solution challenge 2024)  
 - 🎯 **ICPC 2024 Amritapuri Online Prelims Qualified**  
-- 💡 Machine learning Projects with **Microsoft, SAP, AICTE (Edunet)**  
-- 🌍 Built & deployed **[LoklBiz](https://www.loklbiz.com/)** (live E-commerce startup project)  
+- 💡 Machine learning Projects with **Microsoft, SAP, AICTE (Edunet)**   
 - 📌 Organized **AI/ML Events & Competitions** at college  ( CODE CLUB TECHNICAL LEAD)
 - 📊 Built multiple **AI/ML, AR/VR, Blockchain & Startup Projects** across domains  
 - 🌟 **Hacktoberfest 2025 Contributor** (Badge ID: `cmgdjgm9u001cjl04ne877t6g`, Earned on Oct 5, 2025)
