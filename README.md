@@ -4,7 +4,6 @@
 🏆 Hackathon Winner | GOOGLE solution challenge 2024 finalist | ICPC ‘24 Prelims Qualified  
 
 ---
-![GitPay Badges](https://img.shields.io/badge/GitPay-3%20Contributions-brightgreen?style=flat-square&logo=solana)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujesh-kumar-yadav/) 
