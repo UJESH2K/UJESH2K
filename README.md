@@ -19,15 +19,60 @@
 
 ---
 
-## 🌐 Live: [ujesh.in](https://ujesh.in)
+## 🌐 Step inside: [ujesh.in](https://ujesh.in)
 
 <div align="center">
+
 <a href="https://ujesh.in">
-  <img src="https://image.thum.io/get/width/1100/crop/700/noanimate/https://ujesh.in" alt="Live preview of ujesh.in" width="85%"/>
+  <img src="https://raw.githubusercontent.com/UJESH2K/UJESH2K/main/assets/ujesh-site.svg" alt="ujesh.in: click to open the live site" width="100%"/>
 </a>
-<br/>
-<sub>↑ Auto-refreshing screenshot of my site. Click it to explore the real thing.</sub>
+
+<sub>↑ Click the window to open the real site, which has a 3D robot, an interactive keyboard of 65+ repos, and a build log.</sub>
+
+<br/><br/>
+
+**Jump straight to a section of the site**
+
+<a href="https://ujesh.in/#internships"><img src="https://img.shields.io/badge/01-INTERNSHIPS-080808?style=for-the-badge&labelColor=ff5a1f&color=080808" alt="Internships"/></a>
+<a href="https://ujesh.in/#freelance"><img src="https://img.shields.io/badge/02-FREELANCE-080808?style=for-the-badge&labelColor=ff5a1f&color=080808" alt="Freelance"/></a>
+<a href="https://ujesh.in/#work"><img src="https://img.shields.io/badge/03-WORK-080808?style=for-the-badge&labelColor=ff5a1f&color=080808" alt="Work"/></a>
+<a href="https://ujesh.in/#leadership"><img src="https://img.shields.io/badge/04-LEADERSHIP-080808?style=for-the-badge&labelColor=ff5a1f&color=080808" alt="Leadership"/></a>
+<a href="https://ujesh.in/#wins"><img src="https://img.shields.io/badge/05-WINS-080808?style=for-the-badge&labelColor=ff5a1f&color=080808" alt="Wins"/></a>
+<a href="https://ujesh.in/#research"><img src="https://img.shields.io/badge/06-RESEARCH-080808?style=for-the-badge&labelColor=ff5a1f&color=080808" alt="Research"/></a>
+<a href="https://ujesh.in/#contact"><img src="https://img.shields.io/badge/07-CONTACT-080808?style=for-the-badge&labelColor=ff5a1f&color=080808" alt="Contact"/></a>
+
 </div>
+
+### 🏆 On the floor <sub>(photos straight from the site)</sub>
+
+<table>
+  <tr>
+    <td width="33%"><a href="https://ujesh.in/#wins"><img src="https://www.ujesh.in/media/win-inception-solo-800.webp" alt="Inception winner's cheque"/></a><br/><sub><b>Inception</b> · Winner</sub></td>
+    <td width="33%"><a href="https://ujesh.in/#wins"><img src="https://www.ujesh.in/media/win-cypher-800.webp" alt="Cypher winners"/></a><br/><sub><b>Cypher 1</b> · Winner</sub></td>
+    <td width="33%"><a href="https://ujesh.in/#wins"><img src="https://www.ujesh.in/media/win-denova-800.webp" alt="Denova hackathon"/></a><br/><sub><b>Denova</b> · Winner, Solana track</sub></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://ujesh.in/#wins"><img src="https://www.ujesh.in/media/win-cardano-cheque-800.webp" alt="Cardano cheque"/></a><br/><sub><b>Cardano</b> · Winner</sub></td>
+    <td width="33%"><a href="https://ujesh.in/#wins"><img src="https://www.ujesh.in/media/win-hackerrank-800.webp" alt="HackerRank Orchestrate finals"/></a><br/><sub><b>HackerRank Orchestrate</b> · Bronze</sub></td>
+    <td width="33%"><a href="https://ujesh.in/#wins"><img src="https://www.ujesh.in/media/win-gsc-800.webp" alt="Google Solution Challenge bootcamp"/></a><br/><sub><b>Google Solution Challenge</b> · Regional qualifier</sub></td>
+  </tr>
+</table>
+
+### 🧪 Recent work <sub>(live demos and code)</sub>
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://i-nception-2.vercel.app"><img src="https://www.ujesh.in/media/site-worldforge-1600.webp" alt="WorldForge"/></a><br/><b>WorldForge</b>: build a world from a sentence, then train robots in it · <a href="https://i-nception-2.vercel.app">Live</a> · <a href="https://github.com/UJESH2K/INception-2">Code</a></td>
+    <td width="50%"><a href="https://hhgoa.ujesh.in"><img src="https://www.ujesh.in/media/site-tidewatch-1600.webp" alt="Tidewatch"/></a><br/><b>Tidewatch</b>: fraud alerts investigated in under a second · <a href="https://hhgoa.ujesh.in">Live</a> · <a href="https://github.com/UJESH2K/HHGOA">Code</a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://beta.edactly.com/"><img src="https://www.ujesh.in/media/site-edactly-1600.webp" alt="Edactly"/></a><br/><b>Edactly</b>: an AI tutor that has read the whole syllabus · <a href="https://beta.edactly.com/">Visit</a></td>
+    <td width="50%"><a href="https://nex-alpha-six.vercel.app/"><img src="https://www.ujesh.in/media/site-nexr-1600.webp" alt="NEXR"/></a><br/><b>NEXR</b>: workplace wellbeing, without the stigma · <a href="https://nex-alpha-six.vercel.app/">Visit</a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>CrashGraph</b>: a rocket lander with no neural network, 94% landing rate · <a href="https://www.youtube.com/watch?v=07qBMjPD6m0">▶ Watch</a> · <a href="https://github.com/UJESH2K/crashgraph">Code</a> &nbsp;|&nbsp; <b>GradMesh</b>: every idle GPU on the network, one training cluster · <a href="https://github.com/UJESH2K/Gradmesh-v4">Code</a></td>
+  </tr>
+</table>
 
 ---
 
