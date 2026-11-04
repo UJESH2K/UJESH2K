@@ -24,7 +24,7 @@
 <div align="center">
 
 <a href="https://ujesh.in">
-  <img src="https://raw.githubusercontent.com/UJESH2K/UJESH2K/main/assets/ujesh-site.svg" alt="ujesh.in: click to open the live site" width="100%"/>
+  <img src="assets/ujesh-site.svg" alt="ujesh.in: click to open the live site" width="100%"/>
 </a>
 
 <sub>↑ Click the window to open the real site, which has a 3D robot, an interactive keyboard of 65+ repos, and a build log.</sub>
@@ -33,13 +33,13 @@
 
 **Jump straight to a section of the site**
 
-<a href="https://ujesh.in/#internships"><img src="https://img.shields.io/badge/01-INTERNSHIPS-080808?style=for-the-badge&labelColor=ff5a1f&color=080808" alt="Internships"/></a>
-<a href="https://ujesh.in/#freelance"><img src="https://img.shields.io/badge/02-FREELANCE-080808?style=for-the-badge&labelColor=ff5a1f&color=080808" alt="Freelance"/></a>
-<a href="https://ujesh.in/#work"><img src="https://img.shields.io/badge/03-WORK-080808?style=for-the-badge&labelColor=ff5a1f&color=080808" alt="Work"/></a>
-<a href="https://ujesh.in/#leadership"><img src="https://img.shields.io/badge/04-LEADERSHIP-080808?style=for-the-badge&labelColor=ff5a1f&color=080808" alt="Leadership"/></a>
-<a href="https://ujesh.in/#wins"><img src="https://img.shields.io/badge/05-WINS-080808?style=for-the-badge&labelColor=ff5a1f&color=080808" alt="Wins"/></a>
-<a href="https://ujesh.in/#research"><img src="https://img.shields.io/badge/06-RESEARCH-080808?style=for-the-badge&labelColor=ff5a1f&color=080808" alt="Research"/></a>
-<a href="https://ujesh.in/#contact"><img src="https://img.shields.io/badge/07-CONTACT-080808?style=for-the-badge&labelColor=ff5a1f&color=080808" alt="Contact"/></a>
+<a href="https://ujesh.in/#internships"><img src="https://img.shields.io/badge/01-INTERNSHIPS-1f1f1f?style=for-the-badge&labelColor=ff5a1f" alt="Internships"/></a>
+<a href="https://ujesh.in/#freelance"><img src="https://img.shields.io/badge/02-FREELANCE-1f1f1f?style=for-the-badge&labelColor=ff5a1f" alt="Freelance"/></a>
+<a href="https://ujesh.in/#work"><img src="https://img.shields.io/badge/03-WORK-1f1f1f?style=for-the-badge&labelColor=ff5a1f" alt="Work"/></a>
+<a href="https://ujesh.in/#leadership"><img src="https://img.shields.io/badge/04-LEADERSHIP-1f1f1f?style=for-the-badge&labelColor=ff5a1f" alt="Leadership"/></a>
+<a href="https://ujesh.in/#wins"><img src="https://img.shields.io/badge/05-WINS-1f1f1f?style=for-the-badge&labelColor=ff5a1f" alt="Wins"/></a>
+<a href="https://ujesh.in/#research"><img src="https://img.shields.io/badge/06-RESEARCH-1f1f1f?style=for-the-badge&labelColor=ff5a1f" alt="Research"/></a>
+<a href="https://ujesh.in/#contact"><img src="https://img.shields.io/badge/07-CONTACT-1f1f1f?style=for-the-badge&labelColor=ff5a1f" alt="Contact"/></a>
 
 </div>
 
