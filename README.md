@@ -24,7 +24,7 @@
 <div align="center">
 
 <a href="https://ujesh.in">
-  <img src="assets/ujesh-site.svg" alt="ujesh.in: click to open the live site" width="100%"/>
+  <img src="ujesh-site.svg" alt="ujesh.in: click to open the live site" width="100%"/>
 </a>
 
 <sub>↑ Click the window to open the real site, which has a 3D robot, an interactive keyboard of 65+ repos, and a build log.</sub>
