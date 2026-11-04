@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://ujesh.in"><img src="assets/hero.svg" width="100%" alt="Hello there, I'm Ujesh. Full-stack products, applied AI and GPU systems."/></a>
+<a href="https://ujesh.in"><img src="assets/hero.svg?v=2" width="100%" alt="Hello there, I'm Ujesh. Full-stack products, applied AI and GPU systems."/></a>
 
 <img src="assets/marquee.svg" width="100%" alt="Where my work has landed: EaseMed, Hitachi, Edactly, IMPACT-2027, LitmusChaos and hackathon wins"/>
 
